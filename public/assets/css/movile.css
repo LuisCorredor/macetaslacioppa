@@ -1,0 +1,57 @@
+/*----------------------------
+---      Media querys      ---
+------------------------------*/
+
+@media screen and (max-width: 980px){
+	.logoMaceta {
+  		height: auto;
+  		width: 100%;
+	}
+
+	.styleRow{
+  		padding: 50px 0px 50px 0px;
+	}
+
+}
+
+@media screen and (max-width: 768px){
+	.logoMaceta {
+  	    height: auto;
+        width: 100%;
+	}
+
+	.styleRow{
+  		padding: 50px 0px 50px 0px;
+	}
+
+	.btn-md {
+    	padding: 15px 10px;
+  	}
+  
+}
+
+@media screen and (max-width: 500px){
+  	.logoMaceta {
+  	    height: auto;
+  	    width: 60%;
+        margin-left: -100px;
+        margin-top: 200px;
+	}
+
+	.styleRow{
+  		padding: 50px 0px 50px 0px;
+	}
+
+	.btn-md {
+    	padding: 15px 10px;
+  	}
+    
+    .nada{
+        height: 500px;
+    }
+    
+    .slider-inner{
+        height: 500px;
+        background: no-repeat center center / cover;
+    }
+}

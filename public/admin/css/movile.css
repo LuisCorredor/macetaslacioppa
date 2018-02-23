@@ -1,0 +1,81 @@
+/*----------------------------
+---      Media querys      ---
+------------------------------*/
+
+@media screen and (max-width: 980px) {
+    .back {
+        background-color: rgba(255, 255, 255, 0.84);
+        border-radius: 10px;
+        margin-top: 100px !important;
+        margin-bottom: 5px !important;
+    }
+
+    .form-session {
+        padding: 0px 0px !important;
+    }
+
+    .logoSession {
+        height: auto;
+        width: 50%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .logoSession2{
+        height: auto;
+        width: 50%;
+        padding: 0px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .back {
+        background-color: rgba(255, 255, 255, 0.84);
+        border-radius: 10px;
+        margin-top: 100px !important;
+        margin-bottom: 5px !important;
+    }
+
+    .form-session {
+        padding: 0px 0px !important;
+    }
+
+    .logoSession {
+        height: auto;
+        width: 70%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .logoSession2{
+        height: auto;
+        width: 80%;
+        padding: 0px !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .back {
+        background-color: rgba(255, 255, 255, 0.84);
+        border-radius: 10px;
+        margin-top: 100px !important;
+        margin-bottom: 5px !important;
+    }
+
+    .form-session {
+        padding: 0px 0px !important;
+    }
+
+    .logoSession {
+        height: auto;
+        width: 70%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .logoSession2{
+        height: auto;
+        width: 80%;
+        padding: 10px 15px 0px 15px!important;
+    }
+}
